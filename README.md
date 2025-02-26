@@ -1,14 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=900&size=25&pause=1000&color=38C3FF&width=500&height=80&lines=Nicol%C3%A1s+Ceballos+Brito" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=900&size=25&pause=1000&color=19FFF5&width=600&height=120&lines=Nicol%C3%A1s+Ceballos+Brito" alt="Typing SVG" />
   </a>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=700&size=23&pause=1000&color=15D746&width=500&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=900&size=23&pause=1000&color=19FFF5&width=600&height=120&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n" alt="Typing SVG" />
   </a>
 </div>
 
-<br>
 
 <!-- Sección de Presentación con Imágenes Animadas -->
 <table>
@@ -76,16 +75,6 @@
 
 <br>
 
-<!-- Sección de Tecnologías Conocidas -->
-## 🎨 Tecnologías Conocidas 👨🏻‍💻
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,angular,cpp,java,py,ai,css,html,git,github" alt="Tech Stack Icons" />
-  </a>
-</p>
-
-<br>
 
 <!-- Sección de Proyectos y Experiencias -->
 ## 🚀 Proyectos y Experiencias
@@ -102,18 +91,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&hide=contribs,prs&count_private=true&show_icons=true" alt="GitHub Stats">
 </p>
 
----
-
-## 🎨 Tecnologías Conocidas 👨🏻‍💻
-
-<!-- Tech Stack Icons -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,angular,cpp,java,py,ai,css,html,git,github" alt="Tech Stack Icons" />
-  </a>
-</p>
-
----
 
 ## 📫 Conecta conmigo
 
@@ -146,9 +123,6 @@ Apasionado por la **innovación** y la **transformación digital**, busco consta
 
 ---
 
-## 🎨 Gifs y Detalles Divertidos
-
-Me gusta personalizar mi perfil con algunos gifs. Aquí te comparto algunos de mis favoritos:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/computer.gif" alt="Computer GIF" width="150">
