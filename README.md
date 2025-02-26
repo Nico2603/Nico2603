@@ -15,7 +15,7 @@
       <td width="150" align="center">
         <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat" width="150">
       </td>
-      <td width="600" align="justify">
+      <td width="600" align="center">
         Soy estudiante de noveno semestre de <strong>Ingeniería de Sistemas y Telecomunicaciones</strong> en la Universidad Católica de Pereira. Con amplia experiencia en desarrollo de software, análisis de datos e inteligencia artificial, he participado en diversos proyectos que abarcan desde machine learning para mantenimiento predictivo hasta el desarrollo de aplicaciones web interactivas. Mi participación como representante estudiantil y en semilleros de investigación me ha permitido obtener certificaciones en SQL, Power BI, UX/UI y metodologías ágiles, fortaleciendo mi perfil técnico y de liderazgo.
       </td>
       <td width="150" align="center">
