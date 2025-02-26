@@ -208,31 +208,29 @@
 
 ---
 
-<!-- GitHub Stats Section -->
+<!-- Sección de Estadísticas de GitHub en Español -->
 ## 📊 Mis GitHub Stats
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <a href="https://github.com/Nico2603">
-          <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&title_color=19FFF5" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&count_private=true&show_icons=true&theme=dracula&title_color=19FFF5&cache_seconds=86400&locale=es" alt="Estadísticas de GitHub" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <a href="https://github.com/Nico2603">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=dracula&title_color=19FFF5" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=dracula&title_color=19FFF5&cache_seconds=86400&langs_count=10&locale=es" alt="Lenguajes Principales" />
         </a>
       </td>
     </tr>
   </table>
-</div>
-
-<p align="center">
+  <br>
   <a href="https://github.com/Nico2603">
-    <img src="https://komarev.com/ghpvc/?username=Nico2603&style=flat-square&color=19FFF5" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=Nico2603&style=flat-square&color=19FFF5" alt="Contador de Visitas" />
   </a>
-</p>
+</div>
 
 ---
 
