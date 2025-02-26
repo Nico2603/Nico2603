@@ -1,3 +1,4 @@
+<!-- Header Section with Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=900&size=25&pause=1000&color=19FFF5&center=true&vCenter=true&height=30&lines=Nicol%C3%A1s+Ceballos+Brito" alt="Typing SVG" />
@@ -8,8 +9,14 @@
   </a>
 </div>
 
+<!-- Divider GIF (Computer) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/computer.gif" alt="Computer GIF" width="150">
+</p>
+
+<!-- Presentation Section -->
 <div align="center">
-  <table border="0" style="border-collapse: collapse; background-color: transparent;">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: transparent;">
     <tr>
       <td width="150" align="center">
         <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat" width="150">
@@ -24,36 +31,12 @@
   </table>
 </div>
 
+<!-- Divider GIF (Gandalf Parrot) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/computer.gif" alt="Computer GIF" width="150">
+  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/gandalf_parrot.gif" alt="Gandalf Parrot GIF" width="150">
 </p>
 
-## 📊 Mis GitHub Stats
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Nico2603">
-          <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&title_color=19FFF5" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Nico2603">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=dracula&title_color=19FFF5" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <a href="https://github.com/Nico2603">
-    <img src="https://komarev.com/ghpvc/?username=Nico2603&style=flat-square&color=19FFF5" alt="Visitor Count" />
-  </a>
-</p>
-
-<!-- Sección de Tecnologías & Habilidades -->
+<!-- Tecnologías & Habilidades Section -->
 ## 💻 Tecnologías & Habilidades
 
 ### Desarrollo Web
@@ -76,10 +59,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,php,ruby" alt="Backend Icons" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/gandalf_parrot.gif" alt="Gandalf Parrot GIF" width="150">
 </p>
 
 - **CMS y Hosting:** WordPress, Netlify, Heroku, Azure  
@@ -118,6 +97,8 @@
   </a>
 </p>
 
+---
+
 ### Desarrollo de Software & Lenguajes de Programación
 - **Lenguajes:**  
   - **Sistemas y Aplicaciones:** C, C# (cs), C++ (cpp), Java, Python (py), Kotlin, Ruby, PHP, JavaScript (JS)  
@@ -147,9 +128,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/powerup.gif" alt="Power Up GIF" width="150">
-</p>
+---
 
 ### Inteligencia Artificial & Análisis de Datos
 - **Frameworks y Librerías:** TensorFlow, PyTorch, scikit-learn (sklearn)  
@@ -163,6 +142,8 @@
   </a>
 </p>
 
+---
+
 ### Bases de Datos
 - **Relacionales:** MySQL, PostgreSQL, SQLite  
   *Para el almacenamiento y gestión de datos estructurados.*
@@ -174,6 +155,8 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" alt="Database Icons" />
   </a>
 </p>
+
+---
 
 ### Herramientas de Desarrollo y Control de Versiones
 - **Control de Versiones:** Git, GitHub, GitLab  
@@ -189,6 +172,8 @@
   </a>
 </p>
 
+---
+
 ### Sistemas Operativos & Entornos
 - **Sistemas Operativos:** Linux, Debian, Ubuntu, Windows, Kali  
   *Plataformas en las que se desarrollan, prueban y despliegan aplicaciones.*
@@ -201,6 +186,8 @@
   </a>
 </p>
 
+---
+
 ### Herramientas de Shell y Scripting
 - **Shells:** Bash, PowerShell  
   *Utilizados para la automatización de tareas y administración de sistemas.*
@@ -210,6 +197,8 @@
     <img src="https://skillicons.dev/icons?i=bash,powershell" alt="Shell & Scripting Icons" />
   </a>
 </p>
+
+---
 
 ### Otras Herramientas y Utilidades
 - **Utilidades y Scripting:** Regex  
@@ -227,6 +216,37 @@
   </a>
 </p>
 
+---
+
+<!-- GitHub Stats Section -->
+## 📊 Mis GitHub Stats
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Nico2603">
+          <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&title_color=19FFF5" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Nico2603">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=dracula&title_color=19FFF5" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <a href="https://github.com/Nico2603">
+    <img src="https://komarev.com/ghpvc/?username=Nico2603&style=flat-square&color=19FFF5" alt="Visitor Count" />
+  </a>
+</p>
+
+---
+
+<!-- Conecta Conmigo Section -->
 ## 📫 Conecta conmigo
 
 <p align="center">
@@ -248,6 +268,11 @@
   <a href="https://huggingface.co/Flackoooo">
     <img src="https://img.shields.io/badge/HuggingFace-Flackoooo-20BEFF?style=for-the-badge&logo=huggingface" alt="HuggingFace">
   </a>
+</p>
+
+<!-- Divider GIF (Power Up) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/powerup.gif" alt="Power Up GIF" width="150">
 </p>
 
 ---
