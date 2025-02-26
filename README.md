@@ -20,7 +20,7 @@
         Soy estudiante de noveno semestre de <strong>Ingeniería de Sistemas y Telecomunicaciones</strong> en la Universidad Católica de Pereira. Con amplia experiencia en desarrollo de software, análisis de datos e inteligencia artificial, he participado en diversos proyectos que abarcan desde machine learning para mantenimiento predictivo hasta el desarrollo de aplicaciones web interactivas. Mi participación como representante estudiantil y en semilleros de investigación me ha permitido obtener certificaciones en SQL, Power BI, UX/UI y metodologías ágiles, fortaleciendo mi perfil técnico y de liderazgo.
       </td>
       <td width="150" align="center">
-        <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150">
+        <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/computer.gif" alt="Computer GIF" width="150">
       </td>
     </tr>
   </table>
@@ -261,11 +261,11 @@
 <!-- Divider GIF (Power Up) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/powerup.gif" alt="Power Up GIF" width="150">
-  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/computer.gif" alt="Computer GIF" width="150">
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150">
   <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/gandalf_parrot.gif" alt="Gandalf Parrot GIF" width="150">
 </p>
 
 ---
-
+<p align="center">
 ⭐️ ¡Gracias por visitar mi perfil!  
-**Nicolás Ceballos Brito** | [nicolasceballosbrito@gmail.com](mailto:nicolasceballosbrito@gmail.com)
+</p>
