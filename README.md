@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=900&size=25&pause=1000&color=19FFF5&width=600&height=120&lines=Nicol%C3%A1s+Ceballos+Brito" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=900&size=25&pause=1000&color=19FFF5&width=400&height=40&lines=Nicol%C3%A1s+Ceballos+Brito" alt="Typing SVG" />
   </a>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=900&size=23&pause=1000&color=19FFF5&width=600&height=120&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=900&size=23&pause=1000&color=19FFF5&width=400&height=40&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n" alt="Typing SVG" />
   </a>
 </div>
 
