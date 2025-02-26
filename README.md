@@ -8,32 +8,29 @@
   </a>
 </div>
 
-<!-- Social icons section -->
+<!-- Social icons section with color #19FFF5FF -->
 <p align="center">
   <a href="https://github.com/Nico2603">
-    <img width="32px" alt="GitHub" title="GitHub" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+    <img width="32px" alt="GitHub" title="GitHub" src="https://img.icons8.com/ios-filled/50/19FFF5/github.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/nicolas-ceballos-brito/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png"/>
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/ios-filled/50/19FFF5/linkedin.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/NicolasCBrito">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png"/>
+    <img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/50/19FFF5/twitter.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/NicolasCeballosBrito/">
-    <img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png"/>
+    <img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/ios-filled/50/19FFF5/facebook-new.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/nico_ceballos26/">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://huggingface.co/Flackoooo">
-    <img width="32px" alt="HuggingFace" title="HuggingFace" src="https://img.icons8.com/ios-filled/50/000000/hugging-face.png"/>
+    <img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/50/19FFF5/instagram-new.png"/>
   </a>
 </p>
+
 
 
 <!-- Sección de Presentación con Imágenes Animadas -->
