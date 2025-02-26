@@ -1,24 +1,57 @@
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=23&pause=1000&color=38C3FF&width=440&lines=Nicol%C3%A1s+Ceballos+Brito)](https://git.io/typing-svg)  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=23&pause=1000&color=15D746&width=430&height=45&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n)](https://git.io/typing-svg)
-</div>
+<!-- Encabezado con animación y gifs -->
+<table>
+  <tr>
+    <td valign="middle">
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=23&pause=1000&color=38C3FF&width=440&lines=Nicol%C3%A1s+Ceballos+Brito)](https://git.io/typing-svg)  
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=23&pause=1000&color=15D746&width=430&height=45&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n)](https://git.io/typing-svg)
+      
+      <br><br>
+      
+      Soy estudiante de noveno semestre de **Ingeniería de Sistemas y Telecomunicaciones** en la Universidad Católica de Pereira. Con amplia experiencia en desarrollo de software, análisis de datos e inteligencia artificial, he participado en diversos proyectos que integran machine learning para mantenimiento predictivo, desarrollo de aplicaciones web interactivas y soluciones de inteligencia artificial para entornos reales. Además, mi participación en investigaciones científicas y mi rol como representante estudiantil me han permitido complementar mi formación con certificaciones en SQL, Power BI, UX/UI y metodologías ágiles.
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat" width="150">
+      <br>
+      <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150">
+    </td>
+  </tr>
+</table>
 
-<br>
+---
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <!-- Texto de presentación -->
-  <div style="flex: 1; padding: 10px;">
-    Soy estudiante de noveno semestre de **Ingeniería de Sistemas y Telecomunicaciones** en la Universidad Católica de Pereira. Durante mi formación, he acumulado valiosa experiencia en desarrollo de software, análisis de datos e inteligencia artificial.  
-    <br><br>
-    He participado en proyectos de machine learning, mantenimiento predictivo y testing automatizado, lo que me ha permitido integrar de manera efectiva la teoría con la práctica. Además, mi rol como representante estudiantil ante el Consejo Académico y mi participación en semilleros de investigación en Industria 4.0 y programación competitiva han fortalecido mi perfil profesional, impulsándome a buscar soluciones tecnológicas de alto impacto y a innovar en cada desafío.
-  </div>
-  <!-- Imágenes animadas -->
-  <div style="flex: 1; padding: 10px;" align="center">
-    <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat GIF" width="200" />
-    <br><br>
-    <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman SVG" width="200" />
-  </div>
-</div>
+## 💻 Tecnologías & Habilidades
+
+### Desarrollo Web
+- **Frontend:** HTML5, CSS3, JavaScript, React, Angular  
+- **Backend:** Node.js *(conceptos de desarrollo de API y microservicios)*
+
+### Desarrollo de Software
+- **Lenguajes:** C++, Java, Python  
+- **Metodologías:** Programación Orientada a Objetos, Diseño de Software y Testing Automatizado
+
+### Inteligencia Artificial & Análisis de Datos
+- **Modelos y Algoritmos:** DBSCAN, KMeans, Isolation Forest, CBLOF  
+- **Herramientas:** Python (experiencia con bibliotecas para análisis de datos y machine learning)
+
+### Herramientas de Desarrollo y Control de Versiones
+- **Versionado:** Git, GitHub  
+- **Contenedores y Automatización:** Docker, Integración Continua y Entrega Continua (CI/CD)
+
+### Liderazgo & Colaboración
+- **Roles:** Representante estudiantil ante el Consejo Académico (2023-2025)  
+- **Experiencia en Investigación:** Participante en semilleros de investigación en Industria 4.0 y programación competitiva  
+- **Certificaciones:** SQL, Power BI, UX/UI y metodologías ágiles
+
+---
+
+## 🎨 Tecnologías Conocidas 👨🏻‍💻
+
+<!-- Tech Stack Icons -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,angular,cpp,java,py,ai,css,html,git,github" alt="Tech Stack Icons" />
+  </a>
+</p>
 
 ---
 
