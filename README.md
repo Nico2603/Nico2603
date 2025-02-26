@@ -223,6 +223,7 @@
   SQL, Power BI, UX/UI y metodologías ágiles.
 
 
+
 ## 📊 Mis GitHub Stats
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -234,9 +235,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Nico2603">
-        <img src="https://github.com/Nico2603/Nico2603/blob/master/globe.gif?raw=true" alt="Visit my personal website" width="150" />
-        <br>
-        <strong>Visita mi sitio web personal</strong>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=dracula&title_color=19FFF5" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -248,11 +247,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nico2603">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=dracula&title_color=19FFF5" alt="Top Languages" />
-  </a>
-</p>
 
 
 ## 📫 Conecta conmigo
