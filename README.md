@@ -10,21 +10,20 @@
 
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; max-width: 900px; margin: auto;">
-    <div style="flex: 0 0 auto;">
-      <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat" width="150">
-    </div>
-    <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150">
-    <div style="flex: 1; margin: 0 20px; text-align: justify;">
-     <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat" width="150"> Soy estudiante de noveno semestre de <strong>Ingeniería de Sistemas y Telecomunicaciones</strong> en la Universidad Católica de Pereira. Con amplia experiencia en desarrollo de software, análisis de datos e inteligencia artificial, he participado en diversos proyectos que abarcan desde machine learning para mantenimiento predictivo hasta el desarrollo de aplicaciones web interactivas. Mi participación como representante estudiantil y en semilleros de investigación me ha permitido obtener certificaciones en SQL, Power BI, UX/UI y metodologías ágiles, fortaleciendo mi perfil técnico y de liderazgo.<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150">
-    </div>
-    <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150">
-    <div style="flex: 0 0 auto;">
-      <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150">
-    </div>
-  </div>
+  <table border="0">
+    <tr>
+      <td width="150" align="center">
+        <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat" width="150">
+      </td>
+      <td width="600" align="justify">
+        Soy estudiante de noveno semestre de <strong>Ingeniería de Sistemas y Telecomunicaciones</strong> en la Universidad Católica de Pereira. Con amplia experiencia en desarrollo de software, análisis de datos e inteligencia artificial, he participado en diversos proyectos que abarcan desde machine learning para mantenimiento predictivo hasta el desarrollo de aplicaciones web interactivas. Mi participación como representante estudiantil y en semilleros de investigación me ha permitido obtener certificaciones en SQL, Power BI, UX/UI y metodologías ágiles, fortaleciendo mi perfil técnico y de liderazgo.
+      </td>
+      <td width="150" align="center">
+        <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150">
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 
 
