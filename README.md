@@ -1,10 +1,12 @@
 <!-- Encabezado Principal -->
-<h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=23&pause=1000&color=38C3FF&width=440&lines=Nicol%C3%A1s+Ceballos+Brito)](https://git.io/typing-svg)
-</h1>
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=23&pause=1000&color=15D746&width=430&height=45&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n)](https://git.io/typing-svg)
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&size=23&pause=1000&color=15D746&width=430&height=45&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n" alt="Typing SVG" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=23&pause=1000&color=38C3FF&width=440&lines=Nicol%C3%A1s+Ceballos+Brito" alt="Typing SVG" />
+</a>
+
 
 <br>
 
