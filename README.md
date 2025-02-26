@@ -1,9 +1,9 @@
 <!-- Encabezado con animación y gifs -->
-<table>
+
   <tr>
     <td valign="middle">
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=23&pause=1000&color=38C3FF&width=440&lines=Nicol%C3%A1s+Ceballos+Brito)](https://git.io/typing-svg)  
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=23&pause=1000&color=15D746&width=430&height=45&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n)](https://git.io/typing-svg)
+      https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=23&pause=1000&color=38C3FF&width=440&lines=Nicol%C3%A1s+Ceballos+Brito)](https://git.io/typing-svg
+      https://readme-typing-svg.demolab.com?font=Crimson+Text&size=23&pause=1000&color=15D746&width=430&height=45&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n)](https://git.io/typing-svg)
       
       <br><br>
       
@@ -15,7 +15,6 @@
       <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150">
     </td>
   </tr>
-</table>
 
 ---
 
