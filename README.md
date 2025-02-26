@@ -1,3 +1,4 @@
+<!-- Header Section with Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=900&size=25&pause=1000&color=19FFF5&center=true&vCenter=true&height=30&lines=Nicol%C3%A1s+Ceballos+Brito" alt="Typing SVG" />
@@ -8,11 +9,14 @@
   </a>
 </div>
 
+<!-- Divider GIF (Computer) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/computer.gif" alt="Computer GIF" width="150">
+</p>
 
-
-
+<!-- Presentation Section -->
 <div align="center">
-  <table border="0" style="border-collapse: collapse; background-color: transparent;">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: transparent;">
     <tr>
       <td width="150" align="center">
         <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat" width="150">
@@ -27,9 +31,12 @@
   </table>
 </div>
 
+<!-- Divider GIF (Gandalf Parrot) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/gandalf_parrot.gif" alt="Gandalf Parrot GIF" width="150">
+</p>
 
-
-<!-- Sección de Tecnologías & Habilidades -->
+<!-- Tecnologías & Habilidades Section -->
 ## 💻 Tecnologías & Habilidades
 
 ### Desarrollo Web
@@ -209,21 +216,9 @@
   </a>
 </p>
 
+---
 
-
-
-
-
-<!-- Sección de Proyectos y Experiencias -->
-## 🚀 Proyectos y Experiencias
-
-- **Verano de Investigación Científica y Tecnológica del Pacífico:**  
-  Colaboración en proyectos de machine learning y mantenimiento predictivo.
-- **Certificaciones:**  
-  SQL, Power BI, UX/UI y metodologías ágiles.
-
-
-
+<!-- GitHub Stats Section -->
 ## 📊 Mis GitHub Stats
 
 <div align="center">
@@ -249,9 +244,9 @@
   </a>
 </p>
 
+---
 
-
-
+<!-- Conecta Conmigo Section -->
 ## 📫 Conecta conmigo
 
 <p align="center">
@@ -275,12 +270,8 @@
   </a>
 </p>
 
-
-
-
+<!-- Divider GIF (Power Up) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/computer.gif" alt="Computer GIF" width="150">
-  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/gandalf_parrot.gif" alt="Gandalf Parrot GIF" width="150">
   <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/powerup.gif" alt="Power Up GIF" width="150">
 </p>
 
