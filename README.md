@@ -9,6 +9,8 @@
 </div>
 
 
+
+
 <div align="center">
   <table border="0" style="border-collapse: collapse; background-color: transparent;">
     <tr>
@@ -31,69 +33,123 @@
 ## 💻 Tecnologías & Habilidades
 
 ### Desarrollo Web
-- **Frontend:** 
-  - **Lenguajes y Markup:** HTML, CSS, JavaScript (JS), TypeScript (TS)
+- **Frontend:**  
+  - **Lenguajes y Markup:** HTML, CSS, JavaScript (JS), TypeScript (TS)  
   - **Frameworks y Librerías:** Angular, React, jQuery, Bootstrap, Tailwind, htmx, SVG  
   *Utilizados para crear interfaces de usuario modernas, responsivas y atractivas.*
-- **Backend:** 
-  - **Plataformas y Frameworks:** Node.js, FastAPI, Django, Flask, PHP, Ruby  
-  *Utilizados para construir APIs, lógica de servidor y aplicaciones web robustas.*
-- **CMS y Hosting:** WordPress, Netlify, Heroku, Azure  
-  *Para la gestión de contenido y despliegue de sitios web y aplicaciones.*
-- **Diseño y Prototipado:** Figma  
-  *Herramienta para diseño y creación de prototipos interactivos.*
-- **Testing:** Cypress, Selenium  
-  *Para pruebas automatizadas y aseguramiento de la calidad en aplicaciones web.*
-- **Desarrollo Móvil:** Flutter  
-  *Framework para crear aplicaciones móviles nativas de alto rendimiento.*
-
+  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,htmx,jquery" alt="Frontend Icons" />
-    <img src="https://skillicons.dev/icons?i=nodejs,django,flask,php,ruby,wordpress" alt="Backend/CMS Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,jquery,bootstrap,tailwind,htmx,svg" alt="Frontend Icons" />
   </a>
 </p>
 
+- **Backend:**  
+  - **Plataformas y Frameworks:** Node.js, FastAPI, Django, Flask, PHP, Ruby  
+  *Utilizados para construir APIs, lógica de servidor y aplicaciones web robustas.*
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,php,ruby" alt="Backend Icons" />
+  </a>
+</p>
+
+- **CMS y Hosting:** WordPress, Netlify, Heroku, Azure  
+  *Para la gestión de contenido y despliegue de sitios web y aplicaciones.*
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,netlify,heroku,azure" alt="CMS & Hosting Icons" />
+  </a>
+</p>
+
+- **Diseño y Prototipado:** Figma  
+  *Herramienta para diseño y creación de prototipos interactivos.*
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma Icon" />
+  </a>
+</p>
+
+- **Testing:** Cypress, Selenium  
+  *Para pruebas automatizadas y aseguramiento de la calidad en aplicaciones web.*
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,selenium" alt="Testing Icons" />
+  </a>
+</p>
+
+- **Desarrollo Móvil:** Flutter  
+  *Framework para crear aplicaciones móviles nativas de alto rendimiento.*
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter Icon" />
+  </a>
+</p>
+
+---
+
 ### Desarrollo de Software & Lenguajes de Programación
-- **Lenguajes:** 
+- **Lenguajes:**  
   - **Sistemas y Aplicaciones:** C, C# (cs), C++ (cpp), Java, Python (py), Kotlin, Ruby, PHP, JavaScript (JS)  
   *Lenguajes usados para desarrollar desde aplicaciones de escritorio hasta sistemas complejos.*
-- **Herramientas de Construcción:** CMake  
-  *Automatiza el proceso de compilación y construcción de software.*
-- **IDEs y Editores:** Eclipse, IntelliJ IDEA (idea), PyCharm, Visual Studio, VS Code, Sublime Text, Replit, VisualStudio, Vite  
-  *Ambientes de desarrollo integrados que facilitan la codificación y depuración.*
-- **Automatización y Testing:** Cypress, Selenium  
-  *Herramientas para pruebas automatizadas y aseguramiento de la calidad.*
-
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,kotlin,ruby,php" alt="Programming Languages" />
   </a>
 </p>
 
+- **Herramientas de Construcción:** CMake  
+  *Automatiza el proceso de compilación y construcción de software.*
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cmake" alt="CMake Icon" />
+  </a>
+</p>
+
+- **IDEs y Editores:** Eclipse, IntelliJ IDEA (idea), PyCharm, Visual Studio, VS Code, Sublime Text, Replit, VisualStudio, Vite  
+  *Ambientes de desarrollo integrados que facilitan la codificación y depuración.*
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,pycharm,visualstudio,vscode,sublime,replit,vite" alt="IDEs & Editors" />
+  </a>
+</p>
+
+---
+
 ### Inteligencia Artificial & Análisis de Datos
-- **Frameworks y Librerías:** TensorFlow, PyTorch, sklearn (scikit-learn)  
+- **Frameworks y Librerías:** TensorFlow, PyTorch, scikit-learn (sklearn)  
   *Utilizados para crear y entrenar modelos de machine learning y deep learning.*
 - **Herramientas de Análisis:** Matlab  
   *Para análisis numérico, simulaciones y modelado matemático.*
-
+  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai" alt="AI Icons" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matlab" alt="AI & Data Analysis Icons" />
   </a>
 </p>
+
+---
 
 ### Bases de Datos
 - **Relacionales:** MySQL, PostgreSQL, SQLite  
   *Para el almacenamiento y gestión de datos estructurados.*
 - **NoSQL:** MongoDB  
   *Para el manejo de datos no estructurados y escalabilidad horizontal.*
-
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" alt="Database Icons" />
   </a>
 </p>
+
+---
 
 ### Herramientas de Desarrollo y Control de Versiones
 - **Control de Versiones:** Git, GitHub, GitLab  
@@ -102,28 +158,40 @@
   *Automatización de flujos de trabajo, despliegue y orquestación de contenedores.*
 - **Gestión de Paquetes:** npm  
   *Para la administración de dependencias en proyectos JavaScript.*
-
+  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker" alt="DevOps Icons" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,npm" alt="DevOps & Versioning Icons" />
   </a>
 </p>
+
+---
 
 ### Sistemas Operativos & Entornos
 - **Sistemas Operativos:** Linux, Debian, Ubuntu, Windows, Kali  
   *Plataformas en las que se desarrollan, prueban y despliegan aplicaciones.*
 - **Cloud & Hosting:** Azure, Heroku, Netlify  
   *Servicios de computación en la nube para desplegar y escalar aplicaciones.*
-
+  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows" alt="OS Icons" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,kali,azure,heroku,netlify" alt="OS & Cloud Icons" />
   </a>
 </p>
+
+---
 
 ### Herramientas de Shell y Scripting
 - **Shells:** Bash, PowerShell  
   *Utilizados para la automatización de tareas y administración de sistemas.*
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell" alt="Shell & Scripting Icons" />
+  </a>
+</p>
+
+---
 
 ### Otras Herramientas y Utilidades
 - **Utilidades y Scripting:** Regex  
@@ -134,12 +202,13 @@
   *Plataforma para la organización de proyectos y toma de notas.*
 - **Comunidades y Recursos:** LinkedIn, StackOverflow  
   *Redes profesionales y foros para soporte y colaboración técnica.*
-
+  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion" alt="Other Tools Icons" />
+    <img src="https://skillicons.dev/icons?i=regex,raspberrypi,notion,linkedin,stackoverflow" alt="Other Tools & Resources Icons" />
   </a>
 </p>
+
 
 
 
