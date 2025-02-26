@@ -8,7 +8,6 @@
   </a>
 </div>
 
-
 <!-- Social icons section with color #19FFF5FF -->
 <p align="center">
   <a href="https://github.com/Nico2603">
