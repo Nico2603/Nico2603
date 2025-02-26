@@ -225,8 +225,33 @@
 
 ## 📊 Mis GitHub Stats
 
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Nico2603">
+        <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&title_color=19FFF5" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Nico2603">
+        <img src="https://github.com/Nico2603/Nico2603/blob/master/globe.gif?raw=true" alt="Visit my personal website" width="150" />
+        <br>
+        <strong>Visita mi sitio web personal</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&hide=contribs,prs&count_private=true&show_icons=true" alt="GitHub Stats">
+  <a href="https://github.com/Nico2603">
+    <img src="https://komarev.com/ghpvc/?username=Nico2603&style=flat-square&color=19FFF5" alt="Visitor Count" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nico2603">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=dracula&title_color=19FFF5" alt="Top Languages" />
+  </a>
 </p>
 
 
