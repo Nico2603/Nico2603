@@ -9,11 +9,6 @@
   </a>
 </div>
 
-<!-- Divider GIF (Computer) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/computer.gif" alt="Computer GIF" width="150">
-</p>
-
 <!-- Presentation Section -->
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: transparent;">
@@ -30,11 +25,6 @@
     </tr>
   </table>
 </div>
-
-<!-- Divider GIF (Gandalf Parrot) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/gandalf_parrot.gif" alt="Gandalf Parrot GIF" width="150">
-</p>
 
 <!-- Tecnologías & Habilidades Section -->
 ## 💻 Tecnologías & Habilidades
@@ -273,6 +263,8 @@
 <!-- Divider GIF (Power Up) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/powerup.gif" alt="Power Up GIF" width="150">
+  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/computer.gif" alt="Computer GIF" width="150">
+  <img src="https://raw.githubusercontent.com/deut-erium/deut-erium/refs/heads/master/assets/gandalf_parrot.gif" alt="Gandalf Parrot GIF" width="150">
 </p>
 
 ---
