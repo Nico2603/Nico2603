@@ -226,26 +226,29 @@
 
 ## 📊 Mis GitHub Stats
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Nico2603">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&title_color=19FFF5" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Nico2603">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=dracula&title_color=19FFF5" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Nico2603">
+          <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&title_color=19FFF5" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Nico2603">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=dracula&title_color=19FFF5" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <a href="https://github.com/Nico2603">
     <img src="https://komarev.com/ghpvc/?username=Nico2603&style=flat-square&color=19FFF5" alt="Visitor Count" />
   </a>
 </p>
+
 
 
 
@@ -272,13 +275,7 @@
   </a>
 </p>
 
----
 
-## 📚 Acerca de mí
-
-Apasionado por la **innovación** y la **transformación digital**, busco constantemente nuevos retos que me permitan desarrollar soluciones tecnológicas de alto impacto. Mi formación y experiencia me han permitido crecer en el mundo del desarrollo, siempre con la mira puesta en aplicar tecnologías disruptivas en contextos reales.
-
----
 
 
 <p align="center">
