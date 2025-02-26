@@ -8,50 +8,16 @@
   </a>
 </div>
 
-<!-- Social icons section with color #19FFF5FF -->
-<p align="center">
-  <a href="https://github.com/Nico2603">
-    <img width="32px" alt="GitHub" title="GitHub" src="https://img.icons8.com/ios-filled/50/19FFF5/github.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/nicolas-ceballos-brito/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/ios-filled/50/19FFF5/linkedin.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/NicolasCBrito">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/50/19FFF5/twitter.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/NicolasCeballosBrito/">
-    <img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/ios-filled/50/19FFF5/facebook-new.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/nico_ceballos26/">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/50/19FFF5/instagram-new.png"/>
-  </a>
-</p>
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; max-width: 900px; margin: auto;">
+    <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat" width="150" style="margin-right: 20px;">
+    <p style="flex: 1; text-align: justify;">
+      Soy estudiante de noveno semestre de <strong>Ingeniería de Sistemas y Telecomunicaciones</strong> en la Universidad Católica de Pereira. Con amplia experiencia en desarrollo de software, análisis de datos e inteligencia artificial, he participado en diversos proyectos que abarcan desde machine learning para mantenimiento predictivo hasta el desarrollo de aplicaciones web interactivas. Mi participación como representante estudiantil y en semilleros de investigación me ha permitido obtener certificaciones en SQL, Power BI, UX/UI y metodologías ágiles, fortaleciendo mi perfil técnico y de liderazgo.
+    </p>
+    <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150" style="margin-left: 20px;">
+  </div>
+</div>
 
-
-
-<!-- Sección de Presentación con Imágenes Animadas -->
-<table>
-  <tr>
-    <td>
-      <p>
-        Soy estudiante de noveno semestre de <strong>Ingeniería de Sistemas y Telecomunicaciones</strong> en la Universidad Católica de Pereira. 
-        Con amplia experiencia en desarrollo de software, análisis de datos e inteligencia artificial, he participado en diversos proyectos que abarcan desde machine learning para mantenimiento predictivo hasta el desarrollo de aplicaciones web interactivas. 
-        Mi participación como representante estudiantil y en semilleros de investigación me ha permitido obtener certificaciones en SQL, Power BI, UX/UI y metodologías ágiles, fortaleciendo mi perfil técnico y de liderazgo.
-      </p>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat" width="150">
-      <br><br>
-      <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman" width="150">
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <!-- Sección de Tecnologías & Habilidades -->
 ## 💻 Tecnologías & Habilidades
