@@ -1,18 +1,24 @@
-# ¡Hola! Soy Nicolás Ceballos Brito
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=23&pause=1000&color=38C3FF&width=440&lines=Nicol%C3%A1s+Ceballos+Brito)](https://git.io/typing-svg)  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&size=23&pause=1000&color=15D746&width=430&height=45&lines=Ingeniero+de+Sistemas+y+Telecomunicaciones;Investigador+en+Industria+4.0;Desarrollador+de+Software;Analista+de+Datos+%26+Machine+Learning;Colaborador+en+Startups;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n)](https://git.io/typing-svg)
+</div>
 
-Soy estudiante de noveno semestre de **Ingeniería de Sistemas y Telecomunicaciones** en la Universidad Católica de Pereira. Con experiencia en desarrollo de software, análisis de datos e inteligencia artificial, me apasiona aplicar tecnologías innovadoras para resolver problemas reales, combinando teoría y práctica.
+<br>
 
----
-
-## 💻 Tecnologías & Habilidades
-
-- **Desarrollo Web:** JavaScript, React, Angular  
-- **Desarrollo de Software:** C++, Java, Python  
-- **Inteligencia Artificial & Análisis de Datos:** Modelos no supervisados (*DBSCAN, KMeans, Isolation Forest, CBLOF*)  
-- **Testing Automatizado:** Integración de QA en el ciclo de desarrollo  
-- **Liderazgo & Investigación:**  
-  - Representante estudiantil ante el Consejo Académico (2023-2025)  
-  - Participante en semilleros de investigación en Industria 4.0 y programación competitiva
+<div style="display: flex; align-items: center; justify-content: center;">
+  <!-- Texto de presentación -->
+  <div style="flex: 1; padding: 10px;">
+    Soy estudiante de noveno semestre de **Ingeniería de Sistemas y Telecomunicaciones** en la Universidad Católica de Pereira. Durante mi formación, he acumulado valiosa experiencia en desarrollo de software, análisis de datos e inteligencia artificial.  
+    <br><br>
+    He participado en proyectos de machine learning, mantenimiento predictivo y testing automatizado, lo que me ha permitido integrar de manera efectiva la teoría con la práctica. Además, mi rol como representante estudiantil ante el Consejo Académico y mi participación en semilleros de investigación en Industria 4.0 y programación competitiva han fortalecido mi perfil profesional, impulsándome a buscar soluciones tecnológicas de alto impacto y a innovar en cada desafío.
+  </div>
+  <!-- Imágenes animadas -->
+  <div style="flex: 1; padding: 10px;" align="center">
+    <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Octocat GIF" width="200" />
+    <br><br>
+    <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" alt="Pacman SVG" width="200" />
+  </div>
+</div>
 
 ---
 
