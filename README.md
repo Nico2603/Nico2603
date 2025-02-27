@@ -239,6 +239,7 @@
   </a>
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nico2603&theme=highcontrast&hide_border=true&border_radius=10&locale=es" alt="GitHub Streak" /></a>
 ---
 
 <!-- Conecta Conmigo Section -->
