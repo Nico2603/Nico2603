@@ -216,12 +216,19 @@
     <tr>
       <td align="center" style="padding: 10px;">
         <a href="https://github.com/Nico2603">
-          <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&count_private=true&show_icons=true&theme=dracula&title_color=19FFF5&cache_seconds=86400&locale=es" alt="Estadísticas de GitHub" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Nico2603&count_private=true&show_icons=true&theme=vision-friendly-dark&title_color=19FFF5&cache_seconds=86400&locale=es" alt="Estadísticas de GitHub" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
         <a href="https://github.com/Nico2603">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=dracula&title_color=19FFF5&cache_seconds=86400&langs_count=10&locale=es" alt="Lenguajes Principales" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico2603&layout=compact&theme=vision-friendly-dark&title_color=19FFF5&cache_seconds=86400&langs_count=10&locale=es" alt="Lenguajes Principales" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding: 10px;">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Nico2603&theme=highcontrast&hide_border=true&border_radius=10&locale=es" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
